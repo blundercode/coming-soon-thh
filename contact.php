@@ -7,7 +7,7 @@
 	$formcontent="Name: $name\n\nEmail: $email\n\nMessage: $message";
 	
 	// Enter the email where you want to receive the notification when someone submit form
-	$recipient = "admin@egrappler.com";
+	$recipient = "theholoherald@gmail.com";
 	
 	$subject = "See Soon! Contact Form";
 	
