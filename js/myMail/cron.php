@@ -1,7 +1,7 @@
 <?php 
 $time_start = microtime(true);
 if ( !defined('ABSPATH') ) {
-	/** Load WordPress Bootstrap */
+	/** Load WordPress Bootstrap How to do that */
 	require_once('../../../wp-load.php');
 }
 
